@@ -1,6 +1,9 @@
 # Proje 1 - Insertion Sort
-## Soru 1
+
 **[22,27,16,2,18,6]**  
+
+## Soru 1
+
 Yukarı verilen dizinin insertion sort türüne göre aşamalarını yazınız.
 ## Cevap 1
 Insertion Sort, sıralama algoritmalarından biridir ve temel olarak bir diziyi küçükten büyüğe doğru sıralamak için kullanılır. Programlaması basittir ancak quick sort ve merge sort algoritmalarına göre nispeten yavaş çalışır. 
