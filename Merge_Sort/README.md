@@ -1,10 +1,12 @@
-**[16,21,11,8,12,22]** -> Merge Sort
+# Proje 2 
 
-#   Soru 1 
+**[16,21,11,8,12,22]** 
 
-Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+##   Soru 1 
 
-# Cevap 1
+Yukarıdaki dizinin Merge sort türüne göre aşamalarını yazınız.
+
+## Cevap 1
 
 Merge Sort, diziyi böl ve fethet yaklaşımını kullanır. Bu algoritmanın aşamaları aşağıda belirtilmiştir:
 
@@ -29,11 +31,11 @@ Merge Sort, diziyi böl ve fethet yaklaşımını kullanır. Bu algoritmanın a�
 
 **Sonuç:** [8, 11, 12, 16, 21, 22]  
 
-# Soru 2
+## Soru 2
 
 Big-O gösterimini yazınız.
 
-# Cevap 2 
+## Cevap 2 
 Merge Sort'un Big-O gösterimi O(n log n) olarak ifade edilir. Bunun nedeni algoritmanın "böl ve fethet" yaklaşımıdır.
 
 1.  **Bölme aşaması**: Algoritma, giriş dizisini daha küçük parçalara böler. Her bir bölme işlemi, dizinin boyutunu yarıya indirir. Bu nedenle, bu bölme işlemi logaritmik zaman karmaşıklığına (log n) sahip olacaktır. Çünkü, genel olarak, bir şeyi sürekli olarak yarıya böldüğümüzde, bunu logaritmik sayıda kez yapabiliriz.
