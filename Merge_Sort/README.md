@@ -4,7 +4,7 @@
 
 ##   Soru 1 
 
-Yukarıdaki dizinin Merge sort türüne göre aşamalarını yazınız.
+Yukarıdaki dizinin merge sort türüne göre aşamalarını yazınız.
 
 ## Cevap 1
 
